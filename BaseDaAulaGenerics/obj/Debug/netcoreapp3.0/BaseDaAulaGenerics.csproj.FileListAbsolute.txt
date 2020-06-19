@@ -1,0 +1,11 @@
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\12- Generics, Set e dictionary\BaseDaAulaGenerics\BaseDaAulaGenerics\bin\Debug\netcoreapp3.0\BaseDaAulaGenerics.exe
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\12- Generics, Set e dictionary\BaseDaAulaGenerics\BaseDaAulaGenerics\bin\Debug\netcoreapp3.0\BaseDaAulaGenerics.deps.json
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\12- Generics, Set e dictionary\BaseDaAulaGenerics\BaseDaAulaGenerics\bin\Debug\netcoreapp3.0\BaseDaAulaGenerics.runtimeconfig.json
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\12- Generics, Set e dictionary\BaseDaAulaGenerics\BaseDaAulaGenerics\bin\Debug\netcoreapp3.0\BaseDaAulaGenerics.runtimeconfig.dev.json
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\12- Generics, Set e dictionary\BaseDaAulaGenerics\BaseDaAulaGenerics\bin\Debug\netcoreapp3.0\BaseDaAulaGenerics.dll
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\12- Generics, Set e dictionary\BaseDaAulaGenerics\BaseDaAulaGenerics\bin\Debug\netcoreapp3.0\BaseDaAulaGenerics.pdb
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\12- Generics, Set e dictionary\BaseDaAulaGenerics\BaseDaAulaGenerics\obj\Debug\netcoreapp3.0\BaseDaAulaGenerics.csprojAssemblyReference.cache
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\12- Generics, Set e dictionary\BaseDaAulaGenerics\BaseDaAulaGenerics\obj\Debug\netcoreapp3.0\BaseDaAulaGenerics.AssemblyInfoInputs.cache
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\12- Generics, Set e dictionary\BaseDaAulaGenerics\BaseDaAulaGenerics\obj\Debug\netcoreapp3.0\BaseDaAulaGenerics.AssemblyInfo.cs
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\12- Generics, Set e dictionary\BaseDaAulaGenerics\BaseDaAulaGenerics\obj\Debug\netcoreapp3.0\BaseDaAulaGenerics.dll
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\12- Generics, Set e dictionary\BaseDaAulaGenerics\BaseDaAulaGenerics\obj\Debug\netcoreapp3.0\BaseDaAulaGenerics.pdb
